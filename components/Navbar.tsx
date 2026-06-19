@@ -2,7 +2,7 @@ export default function Navbar() {
     return (
         <header>
             <nav>
-                <p>uRL shortener</p>
+                <p className="text-3xl py-5 pl-5">uRL shortener</p>
             </nav>
         </header>
     )
